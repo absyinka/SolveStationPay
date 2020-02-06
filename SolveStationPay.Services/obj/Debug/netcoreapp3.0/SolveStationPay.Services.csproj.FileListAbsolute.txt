@@ -1,0 +1,13 @@
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Services.deps.json
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Services.dll
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Services.pdb
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Entity.dll
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Persistence.dll
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Entity.pdb
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\bin\Debug\netcoreapp3.0\SolveStationPay.Persistence.pdb
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.csprojAssemblyReference.cache
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.AssemblyInfoInputs.cache
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.AssemblyInfo.cs
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.csproj.CopyComplete
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.dll
+C:\Users\Mujybyte\source\repos\SolveStationPay.Services\obj\Debug\netcoreapp3.0\SolveStationPay.Services.pdb
