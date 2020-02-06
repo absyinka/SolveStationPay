@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {}
+    "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {
+    "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj",
         "projectName": "SolveStationPay.Entity",
-        "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj",
+        "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj",
         "packagesPath": "C:\\Users\\Mujybyte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

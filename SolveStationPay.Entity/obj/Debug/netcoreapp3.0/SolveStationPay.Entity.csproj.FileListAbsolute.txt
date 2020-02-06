@@ -6,3 +6,11 @@ C:\Users\Mujybyte\source\repos\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\So
 C:\Users\Mujybyte\source\repos\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.AssemblyInfo.cs
 C:\Users\Mujybyte\source\repos\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.dll
 C:\Users\Mujybyte\source\repos\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.pdb
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\bin\Debug\netcoreapp3.0\SolveStationPay.Entity.deps.json
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\bin\Debug\netcoreapp3.0\SolveStationPay.Entity.dll
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\bin\Debug\netcoreapp3.0\SolveStationPay.Entity.pdb
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.csprojAssemblyReference.cache
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.AssemblyInfoInputs.cache
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.AssemblyInfo.cs
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.dll
+C:\Users\Mujybyte\source\repos\SolveStationApp\SolveStationPay.Entity\obj\Debug\netcoreapp3.0\SolveStationPay.Entity.pdb

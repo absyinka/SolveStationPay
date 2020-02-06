@@ -5023,11 +5023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Persistence\\SolveStationPay.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Persistence\\SolveStationPay.Persistence.csproj",
       "projectName": "SolveStationPay.Persistence",
-      "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Persistence\\SolveStationPay.Persistence.csproj",
+      "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Persistence\\SolveStationPay.Persistence.csproj",
       "packagesPath": "C:\\Users\\Mujybyte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5046,8 +5046,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {
-              "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj"
+            "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj": {
+              "projectPath": "C:\\Users\\Mujybyte\\source\\repos\\SolveStationApp\\SolveStationPay.Entity\\SolveStationPay.Entity.csproj"
             }
           }
         }
